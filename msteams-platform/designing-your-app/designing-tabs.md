@@ -5,19 +5,37 @@ description: Guidance and best practices for designing tabs in a Microsoft Teams
 ---
 # Designing tabs
 
-Some intro text. What is a tab? Personal vs. channel tabs.
+What's a tab? (1-2 sentences)
+ 
+Where do people interact with tabs? (Personal vs. channel tabs)
 
 ## Layouts
 
 Guidelines, graphics, links to resources. Could possibly structure as steps a designer can follow. Links to card and task module guidelines as needed.
 
+When to use each layout  
+
+Discuss cards and task modules, including links to respective design guidelines.
+
+Sketch file + GitHub code link  
+
+Have a download all for all sketch files  
+
 ## Setup experiences
 
 For onboarding and auth workflows.
 
+Tab configuration design – have sketch files + templates
+
+Sign in/sign out – sketch files + templates
+
+Empty state/welcome screen – best practices + sketch files
+
+Discuss cards and task modules, including links to respective design guidelines.
+
 ## Best practices
 
-Text
+Examples: what to do if the tab is too complex, ...
 
 ### Dos
 
@@ -31,12 +49,20 @@ Text
 
 ### Mobile considerations
 
-Some text about mobile best practices.
+Some info about mobile best practices.
 
 ## Real-world examples
 
 Partner showcase and templates.
 
+Different industries (eg. healthcare, edu scenarios) for tab template (P3)
+
 ## Additional resources
 
-Links (to dev guidelines, etc.)
+Links:
+
+* Sketch files
+* Card and task module design guidelines
+* Developer section of tabs (how to get started)
+
+## Next steps

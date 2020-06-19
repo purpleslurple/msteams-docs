@@ -5,7 +5,14 @@ description: Guidance and best practices for designing messaging extensions in a
 ---
 # Designing messaging extensions
 
-Some intro text. What is a messaging extension? Context: Personal, chat, and channels?. Types of messaging extensions.
+What's a messaging extension? (1-2 sentences)
+
+Where do people interact with messaging extensions? (Personal, chat, and channels?)
+
+Types of messaging extensions:
+
+* **Action commands**: High-level desc.
+* **Search commands**: High-level desc.
 
 ## Setup experiences
 
@@ -13,15 +20,33 @@ For onboarding and auth workflows.
 
 ## Search commands
 
-Guidelines, graphics, links to resources. Could possibly structure as steps a designer can follow. Links to card and task module guidelines as needed.
+Provide descriptions + example scenarios/screenshots
+
+Design sketch artboard for different layouts (eg. list view, grid view)
+
+Guidelines, screenshots (list and grid views), links to resources.
+
+Links to card and task module guidelines as needed.
+
+Could possibly structure as steps a designer can follow.
 
 ## Action commands
 
-Guidelines, graphics, links to resources. Could possibly structure as steps a designer can follow. Links to card and task module guidelines as needed.
+Provide descriptions + example scenarios/screenshots
+
+Refer to task module for detailed design
+
+Could possibly structure as steps a designer can follow.
 
 ## Unfurled links
 
-Guidelines, graphics, links to resources. Could possibly structure as steps a designer can follow. Links to card and task module guidelines as needed.
+Guidelines, screenshots, links to resources.
+
+Provide sign in component UI.
+
+Links to card and task module guidelines as needed.
+
+Could possibly structure as steps a designer can follow.
 
 ## Best practices
 
@@ -39,7 +64,7 @@ Text
 
 ### Mobile considerations
 
-Some text about mobile best practices.
+Some info about mobile best practices.
 
 ## Real-world examples
 
@@ -47,4 +72,11 @@ Partner showcase and templates.
 
 ## Additional resources
 
-Links (to dev guidelines, etc.)
+Links:
+
+* Sketch files
+* Developer section of ME (how to get started)
+* Developer section of task module (how to get started)
+* Designer section of task module
+
+## Next steps

@@ -22,3 +22,5 @@ Adaptive card designer: https://adaptivecards.io/designer/
 UI components – Stardust site (https://fluentsite.z22.web.core.windows.net/) 
 
 Platform high value components (WIP)
+
+These guidelines are primarily meant for designing desktop apps.

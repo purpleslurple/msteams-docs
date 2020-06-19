@@ -7,19 +7,19 @@ description: Guidance and best practices for designing messaging extensions in a
 
 Some intro text. What is a messaging extension? Context: Personal, chat, and channels?. Types of messaging extensions.
 
-## Designing setup experiences
+## Setup experiences
 
 For onboarding and auth workflows.
 
-## Designing search commands
+## Search commands
 
 Guidelines, graphics, links to resources. Could possibly structure as steps a designer can follow. Links to card and task module guidelines as needed.
 
-## Designing action commands
+## Action commands
 
 Guidelines, graphics, links to resources. Could possibly structure as steps a designer can follow. Links to card and task module guidelines as needed.
 
-## Designing unfurled links
+## Unfurled links
 
 Guidelines, graphics, links to resources. Could possibly structure as steps a designer can follow. Links to card and task module guidelines as needed.
 

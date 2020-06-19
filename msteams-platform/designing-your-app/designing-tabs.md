@@ -7,11 +7,11 @@ description: Guidance and best practices for designing tabs in a Microsoft Teams
 
 Some intro text. What is a tab? Personal vs. channel tabs.
 
-## Designing layouts
+## Layouts
 
 Guidelines, graphics, links to resources. Could possibly structure as steps a designer can follow. Links to card and task module guidelines as needed.
 
-## Designing setup experiences
+## Setup experiences
 
 For onboarding and auth workflows.
 

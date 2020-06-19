@@ -21,7 +21,7 @@ Some text and links (e.g., Adaptive Card pages and other card editors).
 
 ## General web technology resources
 
-Some text and links for current concepts (iframe), tools (JavaScript SDK), and possibly more.
+Some text and links for current concepts (iframe) and sketches.
 
 ## Examples
 

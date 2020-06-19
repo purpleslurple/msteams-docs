@@ -9,7 +9,7 @@ What's a tab? (1-2 sentences)
  
 Where do people interact with tabs? (Personal vs. channel tabs)
 
-## Layouts
+## Tab layouts
 
 Guidelines, graphics, links to resources. Could possibly structure as steps a designer can follow. Links to card and task module guidelines as needed.
 
@@ -21,7 +21,7 @@ Sketch file + GitHub code link
 
 Have a download all for all sketch files  
 
-## Setup experiences
+## Tab setup experiences
 
 For onboarding and auth workflows.
 

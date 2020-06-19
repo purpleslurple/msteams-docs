@@ -23,8 +23,8 @@
   - name: Task modules
     href: designing-your-app/designing-task-modules.md
   - name: Other considerations
-    href: designing-your-app/other-considerations.md
-  - name: Design resources
+    href: designing-your-app/designing-other-considerations.md
+  - name: Resources
     href: designing-your-app/designing-resources.md
 - name: Tutorials and code samples
   items:

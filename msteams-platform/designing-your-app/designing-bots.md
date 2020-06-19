@@ -47,10 +47,6 @@ Text
 * Always ...
 * Etc.
 
-### Mobile considerations
-
-Some info about mobile best practices.
-
 ## Real-world examples
 
 Partner showcase and templates.

@@ -29,6 +29,10 @@ Text
 * Always ...
 * Etc.
 
+### Mobile considerations
+
+Text
+
 ## Real-world examples
 
 Partner showcase and templates.

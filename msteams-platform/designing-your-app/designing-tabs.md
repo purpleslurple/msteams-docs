@@ -47,6 +47,10 @@ Examples: what to do if the tab is too complex, ...
 * Always ...
 * Etc.
 
+### Mobile considerations
+
+Text
+
 ## Real-world examples
 
 Partner showcase and templates.

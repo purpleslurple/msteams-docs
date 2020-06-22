@@ -38,3 +38,7 @@ Some text.
 ## App detail page
 
 Some text.
+
+## Localization
+
+Some text.

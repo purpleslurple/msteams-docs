@@ -39,6 +39,10 @@ Some text.
 
 Some text.
 
+## Voice
+
+Some info about writing UI text that helps people use your app effectively.
+
 ## Localization
 
 Some text.

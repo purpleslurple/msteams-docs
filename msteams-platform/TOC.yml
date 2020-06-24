@@ -8,7 +8,7 @@
 - name: Designing your app
   expanded: true
   items:
-  - name: Overview
+  - name: Get started
     href: designing-your-app/designing-overview.md
   - name: Tabs
     href: designing-your-app/designing-tabs.md

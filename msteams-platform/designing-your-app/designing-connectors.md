@@ -1,9 +1,9 @@
 ---
-title: Designing connectors in Microsoft Teams
+title: Designing webhooks and connectors in Microsoft Teams
 author: heath-hamilton
 description: Guidance and best practices for designing connectors in a Microsoft Teams app.
 ---
-# Designing connectors
+# Designing webhooks and connectors
 
 What's a connectors (1-2 sentences)?
 

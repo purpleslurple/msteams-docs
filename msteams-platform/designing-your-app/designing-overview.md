@@ -27,11 +27,22 @@ Along those lines, your design must thread UI components together in a way that 
 ### Tabs
 
 :::row:::
-   :::column span="2":::
+   :::column span="1":::
        Tabs are canvases for web-based content. But unlike a standard web app or website, they work best when displaying a small set of data or tasks.
    :::column-end:::
-   :::column span="2":::
+   :::column span="3":::
        ![Conceptual representation of what tabs look like in the Teams client.](../assets/images/overview-tabs.png)
+   :::column-end:::
+:::row-end:::
+
+### Messaging extensions
+
+:::row:::
+   :::column span="1":::
+       Messaging extensions are here's some text and more and some more
+   :::column-end:::
+   :::column span="3":::
+       ![Conceptual representation of what messaging extensions look like in the Teams client.](../assets/images/overview-messaging.png)
    :::column-end:::
 :::row-end:::
 

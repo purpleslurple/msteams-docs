@@ -14,7 +14,7 @@
     href: designing-your-app/designing-tabs.md
   - name: Messaging extensions
     href: designing-your-app/designing-messaging-extensions.md
-  - name: Connectors
+  - name: Webhooks and connectors
     href: designing-your-app/designing-connectors.md
   - name: Bots
     href: designing-your-app/designing-bots.md

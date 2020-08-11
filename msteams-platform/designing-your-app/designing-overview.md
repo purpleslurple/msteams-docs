@@ -1,11 +1,13 @@
 ---
-title: Getting started with designing your Microsoft Teams app
+title: Designing your Microsoft Teams app overview
 author: heath-hamilton
 description: Overview on how to design a Microsoft Teams app.
 ---
 # Designing your Microsoft Teams app
 
-To design a great app, you need a fundamental understanding for what your app will be and how people will use it. Make sure you know your app's use cases, understand how those fit in with available capabilities, and determine if the app is for groups or individuals before constructing a UI. [INCLUDE LINKS HERE]
+Well-designed apps feel native to Microsoft Teams. They make communication more natural, improve collaboration, simplify daily activities, and help people focus on what's important.
+
+These guidelines can 
 
 Teams apps are built using a set of capabilities [INCLUDE LINK HERE TO CAPABILITIES SECTION]
 
@@ -26,3 +28,7 @@ UI components – Stardust site (https://fluentsite.z22.web.core.windows.net/)
 Platform high value components (WIP)
 
 These guidelines are primarily meant for designing desktop apps.
+
+## Before you begin
+
+To design a great app, you need a fundamental understanding for what your app will be and how people will use it. Make sure you know your app's use cases, understand how those fit in with available capabilities, and determine if the app is for groups or individuals before constructing a UI. [INCLUDE LINKS HERE]

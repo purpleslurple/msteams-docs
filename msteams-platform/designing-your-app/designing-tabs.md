@@ -5,21 +5,31 @@ description: Guidance and best practices for designing tabs in a Microsoft Teams
 ---
 # Designing tabs
 
-What's a tab? (1-2 sentences)
- 
-Where do people interact with tabs? (Personal vs. channel tabs)
+Tabs are a simple way to surface content in your app by essentially embedding a webpage in Teams.
+
+## Tab audiences
+
+With tabs, your user may be one person (personal tab) or a group (channel tab). While it may not change your design, knowing your app's scope could influence your design.
 
 ## Tab layouts
 
-Guidelines, graphics, links to resources. Could possibly structure as steps a designer can follow. Links to card and task module guidelines as needed.
+Here are some common tab layouts.
 
-When to use each layout  
+### Single canvas
 
-Discuss cards and task modules, including links to respective design guidelines.
+This is one large area where work gets done. OneNote and Wiki follow this pattern. If you have an app that doesn’t separate content into smaller components this would be a good fit.
 
-Sketch file + GitHub code link  
+### List
 
-Have a download all for all sketch files  
+Lists are great for sorting and filtering large quantities of data and are great at keeping the most important things at the top. It is helpful to use sortable columns. Actions can be added to each list item under the ellipsis menu.
+
+### Column
+
+Columns are great for workflows that move an item from one column to another to indicate a new status. Consider supporting drag and drop for those scenarios. We recommend using dialogs or inline expansion for detail views.
+
+### Grid
+
+Grids are useful for showing elements which are highly visual. It helps to include a filter or search control at the top.
 
 ## Tab setup experiences
 

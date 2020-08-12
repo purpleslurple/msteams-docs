@@ -9,7 +9,7 @@ A well-designed Microsoft Teams app has the following characteristics:
 
 * Promotes collaboration
 * Focuses only on core activities and scenarios
-* Appears either native to Teams or completely distinct
+* Appears either native to Teams or completely distinct (no blending color schemes and controls)
 * Easy to use
 * Inclusive of all backgrounds and abilities
 * Accessible
@@ -52,7 +52,7 @@ Webhooks and connectors send notifications and alerts to team channels and chats
 
 Each capability in your Teams app needs a UI. There's a variety of UI components you can use, but some components make more sense than others in Teams.
 
-For example, *cards* are used frequently for displaying rich content with messaging extensions, bots, and incoming webhooks. A *task module* is another Teams-centric component; it's essentially a card that allows users to take action (for example, complete a form). [INCLUDE LINKS]
+For example, you can use [*cards*](../designing-your-app/designing-cards.md) to display rich content with messaging extensions, bots, and incoming webhooks. A [*task module*](../designing-your-app/designing-task-modules.md) is another Teams-centric component; it's essentially a card that allows users to take action (for example, complete a form). [INCLUDE LINKS]
 
 ## Resources
 

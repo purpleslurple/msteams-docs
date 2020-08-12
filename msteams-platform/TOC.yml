@@ -5,7 +5,7 @@
       href: overview.md
     - name: What's new?
       href: whats-new.md
-- name: Designing your app
+- name: Design your app
   expanded: true
   items:
   - name: Get started
@@ -14,10 +14,10 @@
     href: designing-your-app/designing-tabs.md
   - name: Messaging extensions
     href: designing-your-app/designing-messaging-extensions.md
-  - name: Webhooks and connectors
-    href: designing-your-app/designing-connectors.md
   - name: Bots
     href: designing-your-app/designing-bots.md
+  - name: Webhooks and connectors
+    href: designing-your-app/designing-connectors.md
   - name: Cards
     href: designing-your-app/designing-cards.md
   - name: Task modules

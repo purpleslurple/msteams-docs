@@ -5,6 +5,19 @@ description: Overview on how to design a Microsoft Teams app.
 ---
 # Designing your Microsoft Teams app
 
+Designing Teams apps is similar to designing any other app—but also a little different.
+
+Follow these guidelines—which include best practices, UI toolkits, and samples—to help you quickly make the right design decisions for your app.
+
+> [!NOTE]
+> These guidelines are primarily for designing desktop apps.
+
+## Before you begin
+
+You can't design a great Teams app without a fundamental understanding of what the app is supposed to do and how you think people will use it. Before opening your design tools, make sure you've properly planned your app. [INCLUDE LINK TO PLANNING HERE]
+
+## General principles
+
 A well-designed Microsoft Teams app has the following characteristics:
 
 * Promotes collaboration
@@ -15,22 +28,13 @@ A well-designed Microsoft Teams app has the following characteristics:
 * Accessible
 * Clear purpose (through app icons and documentation)
 
-Use the Teams platform design guidelines—which include best practices, UI toolkits, and samples—to make sure your app has these qualities.
-
-> [!NOTE]
-> These guidelines are primarily for designing desktop apps.
-
-## Before you begin
-
-You can't design a great Teams app without a fundamental understanding of what the app is supposed to do and how you think people will use it. Before opening your design tools, make sure you've properly planned your app. [INCLUDE LINK TO PLANNING HERE]
-
 ## Creating a cohesive look and feel
 
-Apps extend Teams features and functionality using one or more of the available platform [capabilities](../concepts/capabilities-overview.md). Your app presents these capabilities—whether it's a tab, messaging extension, bot, or webhook—with common and Teams-centric UI components.
+Apps extend Teams features and functionality using one or more platform [capabilities](../concepts/capabilities-overview.md). Your app presents these capabilities—whether it's a tab, messaging extension, bot, or webhook—with common and Teams-centric UI components.
 
-Designing your app requires knowing what UI works for certain capabilities (and what doesn't). For example, while multi-level navigation is fine for websites, it isn't ideal for a Teams tab because the app probably isn't focusing only on core activities and scenarios.
+Designing your app requires knowing what UI works for certain capabilities (and what doesn't). For example, while multi-level navigation is fine for websites, it isn't ideal for a Teams tab because it probably isn't focusing only on core activities and scenarios.
 
-Your design also must thread UI components together in a way that feels natural not only to users but also within Teams. (This is especially true if your app has more than one capability.)
+Your design also must thread UI components together in a way that feels natural not only to your use case but also within Teams. (This is especially true if your app has more than one capability, such as a bot replying with a link to a tab that has a form to complete.)
 
 ## Tabs
 

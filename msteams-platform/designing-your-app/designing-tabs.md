@@ -5,11 +5,11 @@ description: Guidance and best practices for designing tabs in a Microsoft Teams
 ---
 # Designing tabs
 
-Tabs are a simple way to surface content in your app by essentially embedding a webpage in Teams.
+Designing a tab for Teams tabs is similar to designing a single-page application or website. The best tabs are simple, task oriented, and facilitate collaboration.
 
 ## Tab audiences
 
-With tabs, your user may be one person (personal tab) or a group (channel tab). While it may not change your design, knowing your app's scope could influence your design.
+With tabs, your user may be one person (personal tab) or a group (channel tab). While it may not matter, knowing your app's scope could influence your design.
 
 ## Tab layouts
 
@@ -17,7 +17,7 @@ Here are some common tab layouts.
 
 ### Single canvas
 
-This is one large area where work gets done. OneNote and Wiki follow this pattern. If you have an app that doesn’t separate content into smaller components this would be a good fit.
+This is a single large area where work gets done. OneNote and Wiki follow this pattern. If your app that doesn’t separate content into smaller components this would be a good fit.
 
 ### List
 
@@ -45,19 +45,23 @@ Discuss cards and task modules, including links to respective design guidelines.
 
 ## Best practices
 
-Examples: what to do if the tab is too complex, ...
+Use these as checklists when designing your app.
 
 ### Dos
 
-* Always ...
-* Etc.
+* **Focus functionality** to only your app's use cases. (Teams isn't the World Wide Web.)
+* **Know your audience**. Your user may be one person (personal tab) or a group (channel tab), which could influence your design.
+* **Notify users of tab activity**. For example, post cards to a channel when someone creates a ticket on the issue-tracking tab.
+* **Include a default state** even if users can configure some aspects of the experience.
+* **Be a deep link target** from elsewhere in Teams. For example, a card may show a summary of bug data, but selecting it shows the entire bug in a tab.
+* **Give the tab a useful name**. While your app's name may stand out in AppSource, consider naming the tab simply based on what it can do.
 
 ### Don'ts
 
-* Always ...
-* Etc.
+* **Avoid tabs within tabs**, such as multiple panels, layers of navigation, or vertical and horizontal scrolling.
+* x
 
-### Mobile considerations
+## Mobile considerations
 
 Text
 

@@ -5,7 +5,7 @@ description: Overview on how to design a Microsoft Teams app.
 ---
 # Designing your Microsoft Teams app
 
-Designing Teams apps is like designing conventional apps—but also a little different.
+Designing Teams apps is like designing conventional web apps—but also a little different.
 
 Follow these guidelines—which include best practices, UI toolkits, and samples—to help you quickly make the right design decisions for your app.
 

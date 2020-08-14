@@ -60,7 +60,7 @@ For example, you can use [*cards*](../designing-your-app/designing-cards.md) to 
 
 ## Resources
 
-* Tool kit – resources & assets (most WIP)
+* Toolkit – resources & assets (most WIP)
 * [Adaptive card designer](https://adaptivecards.io/designer)
-* UI components – Stardust site (https://fluentsite.z22.web.core.windows.net/)
+* [Fluent UI Design System](https://fluentsite.z22.web.core.windows.net/)
 * Platform high value components (WIP)

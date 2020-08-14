@@ -14,7 +14,7 @@ Use these as tab design checklists.
 ### Dos
 
 * **Focus on functionality** to only your app's use cases. (Teams isn't the World Wide Web.)
-* **Know your audience**. Your tab may be used by one person (personal tab) or a group (channel tab), which could influence your design.
+* **Know your audience**. Your tab may be used in one-on-one (personal tab) or group (channel tab) contexts, which could influence your design.
 * **Use Teams design components and patterns** so that your tab feels natural within the platform.
 * **Include a default state** for your tab even if users can configure some aspects of the experience.
 * **Notify users of tab activity**. For example, post cards to a channel when someone creates a ticket on the issue tracker tab.

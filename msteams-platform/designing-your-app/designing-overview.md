@@ -5,7 +5,7 @@ description: Overview on how to design a Microsoft Teams app.
 ---
 # Designing your Microsoft Teams app
 
-Designing Teams apps is similar to designing any other app—but also a little different.
+Designing Teams apps is similar to designing other types of apps—but also a little different.
 
 Follow these guidelines—which include best practices, UI toolkits, and samples—to help you quickly make the right design decisions for your app.
 
@@ -14,19 +14,19 @@ Follow these guidelines—which include best practices, UI toolkits, and samples
 
 ## Before you begin
 
-You can't design a great Teams app without a fundamental understanding of what the app is supposed to do and how you think people will use it. Before opening your design tools, make sure you've properly planned your app. [INCLUDE LINK TO PLANNING HERE]
+You can't design a great Teams app without a fundamental understanding of what the app is supposed to do and how you think people will use it. Before opening your design tools, make sure you've properly [planned your app]().
 
 ## General principles
 
-A well-designed Microsoft Teams app has the following characteristics:
+A well-designed Teams app has the following characteristics:
 
 * Promotes collaboration
 * Focuses only on core activities and scenarios
-* Appears either native to Teams or completely distinct (no blending color schemes and controls)
+* Appears either native to Teams or completely distinct (not a blend of color schemes, styles, and controls)
 * Easy to use
 * Inclusive of all backgrounds and abilities
 * Accessible
-* Clear purpose (through app icons and documentation)
+* Has a clear purpose (through expressive app icons and usable documentation)
 
 ## Creating a cohesive look and feel
 

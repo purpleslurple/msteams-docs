@@ -56,7 +56,7 @@ Webhooks and connectors send notifications and alerts to team channels and chats
 
 In most cases, each capability in your Teams app needs a UI. There's a variety of UI components and patterns you can use, but some just make more sense in Teams.
 
-For example, you can use [*cards*](../designing-your-app/designing-cards.md) to display rich content with messaging extensions, bots, and incoming webhooks. A [*task module*](../designing-your-app/designing-task-modules.md) is another Teams-centric component; it's essentially a card that allows users to take action (for example, complete a form).
+For example, you can use [*cards*](../designing-your-app/designing-cards.md) to display rich content with messaging extensions, bots, and incoming webhooks. A [*task module*](../designing-your-app/designing-task-modules.md) is another Teams-centric design pattern; it's essentially a card with inputs (for example, a form).
 
 ## Resources
 

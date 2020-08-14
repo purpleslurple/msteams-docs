@@ -3,7 +3,7 @@ title: Designing tabs in Microsoft Teams
 author: heath-hamilton
 description: Guidance and best practices for designing tabs in a Microsoft Teams app.
 ---
-# Designing tabs
+# Designing Teams tabs
 
 Designing an effective tab for Teams is similar to designing a single-page application. The best tabs are simple, task oriented, and facilitate collaboration.
 

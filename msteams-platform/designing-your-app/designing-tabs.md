@@ -9,7 +9,7 @@ Designing an effective tab for Teams is similar to designing a single-page appli
 
 ## Best practices
 
-Use these as tab design checklists.
+Use these as checklists when designing your tab.
 
 ### Dos
 

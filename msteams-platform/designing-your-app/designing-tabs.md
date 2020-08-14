@@ -82,7 +82,7 @@ Which partners have the "best" tabs? If possible, showcase different industries 
 
 Is there code open source, or do we have a template that's similar we can link to?
 
-## Related resources
+## Resources
 
 * Figma sketch files
 * Card and task module design guidelines

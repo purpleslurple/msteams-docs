@@ -30,7 +30,7 @@ Use these as tab design checklists.
 
 ## Layouts
 
-Here are some common tab layouts.
+The following tab layouts are common and fit most Teams use cases.
 
 ### Single canvas
 

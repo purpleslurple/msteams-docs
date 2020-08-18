@@ -9,7 +9,7 @@ Designing an effective tab for Teams is similar to designing a single-page appli
 
 ## Best practices
 
-Use these as tab design checklists.
+Use these as checklists when designing your tab.
 
 ### Dos
 
@@ -30,7 +30,7 @@ Use these as tab design checklists.
 
 ## Layouts
 
-Here are some common tab layouts.
+The following tab layouts are common and fit most Teams use cases.
 
 ### Single canvas
 
@@ -82,7 +82,7 @@ Which partners have the "best" tabs? If possible, showcase different industries 
 
 Is there code open source, or do we have a template that's similar we can link to?
 
-## Related resources
+## Resources
 
 * Figma sketch files
 * Card and task module design guidelines

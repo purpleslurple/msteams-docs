@@ -78,9 +78,11 @@ Need info from mobile design team.
 
 ## Real-world examples
 
-Which partners have the "best" tabs? If possible, showcase different industries (e.g., health care, edu).
-
-Is there code open source, or do we have a template that's similar we can link to?
+* [Lucidchart](https://teams.microsoft.com/l/app/7f905be6-3226-4a4c-9c54-ab1edce3c99c?source=store-copy-link)
+* [MURAL](https://teams.microsoft.com/l/app/c738b607-88dd-4f16-aefe-6a824c65d25d?source=store-copy-link)
+* [Smartsheet](https://teams.microsoft.com/l/app/f4d81e8e-4500-44c2-8328-9e06cbe037c5?source=store-copy-link)
+* [Jira Cloud](https://teams.microsoft.com/l/app/aa183fd9-7104-46c4-af9f-9ee9b81d717e?source=store-copy-link)
+* [Flipgrid](https://teams.microsoft.com/l/app/aa5fe6c5-f91c-45ed-88de-640e235ad21b?source=store-copy-link)
 
 ## Resources
 

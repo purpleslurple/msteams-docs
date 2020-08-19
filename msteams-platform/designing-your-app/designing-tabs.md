@@ -32,31 +32,33 @@ Use these as checklists when designing your tab.
 
 The following tab layouts are common and fit most Teams use cases.
 
-### Single canvas
+### Canvas
 
-This is a single large area where work gets done. OneNote and Wiki follow this pattern. If your app that doesn’t separate content into smaller components this would be a good fit.
+A large area where work gets done. Makes sense if your app doesn’t separate content into smaller components (for example, Microsoft OneNote and the Teams Wiki tab).
 
 !!List or table with common design components (including Figma links)!!
 
 ### List
 
-Lists are great for sorting and filtering large quantities of data and are great at keeping the most important things at the top. It is helpful to use sortable columns. Actions can be added to each list item under the ellipsis menu.
+Displays data you can sort and filter while keeping the most important items on top. You can add actions to each list item with the ellipsis menu.
 
 !!List or table with common design components (including Figma links)!!
 
 ### Column
 
-Columns are great for workflows that move an item from one column to another to indicate a new status. Consider supporting drag and drop for those scenarios. We recommend using dialogs or inline expansion for detail views.
+Typically for workflows where you drag and drop items to different columns (for example, a task board). For detailed item views, use task modules (i.e., modals) or inline expansion.
 
 !!List or table with common design components (including Figma links)!!
 
 ### Grid
 
-Grids are useful for showing elements which are highly visual. It helps to include a filter or search control at the top.
+Useful for showing highly visual, categorized content. It helps to include a filter or search option at the top.
 
 !!List or table with common design components (including Figma links)!!
 
-## Setup experiences
+## Setup and authentication
+
+If your tab includes an onboarding workflow, your design may need to account for a sign-in page and welcome screen. Users also must complete a configuration dialog when installing a tab in a channel or chat.
 
 For tab onboarding and auth workflows (channel tab).
 
@@ -70,7 +72,7 @@ Empty state/welcome screen – best practices + sketch files
 
 ## Cards and task modules
 
-Discuss cards and task modules within context of tabs and include links to their respective design guidelines. Could also just be links to their guidelines.
+Discuss cards and task modules within the context of tabs and include links to their respective design guidelines. Could also just be links to their guidelines.
 
 ## Mobile considerations
 

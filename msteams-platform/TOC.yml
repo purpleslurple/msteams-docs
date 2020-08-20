@@ -19,7 +19,7 @@
   - name: Webhooks and connectors
     href: designing-your-app/designing-connectors.md
   - name: UI components
-    href: 
+    items: 
     - name: Cards
       href: designing-your-app/designing-cards.md
     - name: Task modules

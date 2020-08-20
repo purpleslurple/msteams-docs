@@ -28,6 +28,18 @@ Use these as checklists when designing your tab.
 * **Complicate the sign-in process**. If you need to grant access to your tab, make sure it's a simple workflow or people won't use it.
 * **Focus too much on branding**. For example, keep your logo small and unobtrusive. Place it on the top right, top left, or bottom edge of the tab.
 
+## Setup and authentication
+
+If your tab includes an onboarding workflow, your design may need to account for a sign-in page and welcome screen. Users also must complete a configuration dialog when installing a tab in a channel or chat.
+
+Sign in/sign out – sketch files + templates
+
+Tab configuration design – have sketch files + templates
+
+Empty state/welcome screen – best practices + sketch files
+
+!!List or table with common design components (including Figma links)!!
+
 ## Layouts
 
 The following tab layouts are common and fit most Teams use cases.
@@ -46,27 +58,13 @@ Displays data you can sort and filter while keeping the most important items on 
 
 ### Column
 
-Typically for workflows where you drag and drop items to different columns (for example, a task board). For detailed item views, use task modules (i.e., modals) or inline expansion.
+Typically for workflows where you drag and drop items to different states (for example, a task board). For detailed item views, use task modules (i.e., modals) or inline expansion.
 
 !!List or table with common design components (including Figma links)!!
 
 ### Grid
 
 Useful for showing highly visual, categorized content. It helps to include a filter or search option at the top.
-
-!!List or table with common design components (including Figma links)!!
-
-## Setup and authentication
-
-If your tab includes an onboarding workflow, your design may need to account for a sign-in page and welcome screen. Users also must complete a configuration dialog when installing a tab in a channel or chat.
-
-For tab onboarding and auth workflows (channel tab).
-
-Tab configuration design – have sketch files + templates
-
-Sign in/sign out – sketch files + templates
-
-Empty state/welcome screen – best practices + sketch files
 
 !!List or table with common design components (including Figma links)!!
 

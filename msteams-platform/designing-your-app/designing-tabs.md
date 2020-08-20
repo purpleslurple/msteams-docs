@@ -68,10 +68,6 @@ Useful for showing highly visual, categorized content. It helps to include a fil
 
 !!List or table with common design components (including Figma links)!!
 
-## Cards and task modules
-
-Discuss cards and task modules within the context of tabs and include links to their respective design guidelines. Could also just be links to their guidelines.
-
 ## Mobile considerations
 
 Need info from mobile design team.

@@ -25,7 +25,7 @@ Use these as checklists when designing your messaging extension.
 ### Don'ts
 
 * **Include optional parameters in your search commands**. People can feel obligated to complete every parameter before initiating the search.
-* **Forget to optimize your cards**. Each messaging extension produces a card. Since it’s the last thing your user sees, make sure the cards have useful information, look appealing, and are easy to share.
+* **Forget to optimize your cards**. Each messaging extension produces a card. Since it’s the last thing your user sees, make sure the cards look appealing, have useful information, and are easy to share.
 
 ## Setup and authentication
 
@@ -41,33 +41,30 @@ Guidelines, screenshots (list and grid views), links to resources.
 
 Links to card and task module guidelines as needed.
 
-Could possibly structure as steps a designer can follow.
-
 ## Action commands
 
 Provide descriptions + example scenarios/screenshots
 
 Refer to task module for detailed design
 
-Could possibly structure as steps a designer can follow.
+## Link unfurling
 
-## Unfurled links
+Your messaging extension can support simple link unfurling, which displays a card when a user enters or pastes a URL from a recognized domain in the compose box.
 
-Guidelines, screenshots, links to resources.
+You can use the following card types with link unfurling:
 
-Provide sign in component UI.
+* Thumbnail
+* Hero
+* Office 365 Connector
+* Adaptive Card
 
-Links to card and task module guidelines as needed.
-
-Could possibly structure as steps a designer can follow.
-
-### Mobile considerations
+## Mobile considerations
 
 Text
 
 ## Real-world examples
 
-Partner showcase and templates.
+* [Azure DevOps](https://teams.microsoft.com/l/app/com.microsoft.teamspace.tab.vsts?source=store-copy-link)
 
 ## Resources
 

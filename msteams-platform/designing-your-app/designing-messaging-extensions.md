@@ -64,6 +64,8 @@ Text
 
 ## Real-world examples
 
+Get design inspiration from these apps.
+
 * [Azure DevOps](https://teams.microsoft.com/l/app/com.microsoft.teamspace.tab.vsts?source=store-copy-link)
 
 ## Resources
